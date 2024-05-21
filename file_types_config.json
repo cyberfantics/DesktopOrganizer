@@ -1,0 +1,7 @@
+{
+    "Images": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".tif", ".tiff"],
+    "Videos": [".mp4", ".avi", ".mov", ".wmv", ".mkv", ".flv", ".webm"],
+    "Documents": [".doc", ".docx", ".pdf", ".txt", ".rtf", ".odt", ".csv"],
+    "Archives": [".zip", ".rar", ".7z", ".tar", ".gz", ".xz"],
+    "Programming": [".py", ".java", ".c", ".cpp", ".cs", ".html", ".css", ".js", ".php", ".xml", ".json", ".yaml", ".md", ".sh", ".bat", ".vb", ".perl", ".pl", ".rb", ".swift", ".go", ".lua", ".ts", ".sql", ".asm", ".hpp", ".h", ".m", ".r", ".jsx", ".tsx"]
+}
