@@ -16,7 +16,8 @@ Welcome to the Wifi Extractor & Desktop Organizer! This tool helps you extract W
 - **Move Into Main Folder:** `cd DesktopOrganizer`
 - **Run `main.exe` file
 
-### Main Menu Options
+
+## Main Menu Options
 
 1. **View passwords for all Wi-Fi devices**:
    - Displays saved Wi-Fi profiles and their passwords.
