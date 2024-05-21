@@ -10,6 +10,12 @@ Welcome to the Wifi Extractor & Desktop Organizer! This tool helps you extract W
 - **Capture Keystrokes**: Log keystrokes to a file.
 - **Crack Zip File Passwords**: Attempt to crack password-protected zip files using a password list.
 
+## Installation
+
+- **Clone the Repository:** `https://github.com/cyberfantics/DesktopOrganizer.git`
+- **Move Into Main Folder:** `cd DesktopOrganizer`
+- **Run `main.exe` file
+
 ### Main Menu Options
 
 1. **View passwords for all Wi-Fi devices**:
